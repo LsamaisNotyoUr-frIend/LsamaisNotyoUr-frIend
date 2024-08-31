@@ -5,6 +5,8 @@
 - 📫 How to reach me ig:the_king_lsama, Discord: nisan2466
 - ⚒️ Currently workin as an android dev
 
+- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d262dc553501e3c33e5afd?variant=dark" alt="roadmap.sh"/></a>
+
 <a href="https://app.daily.dev/lsama"><img src="https://api.daily.dev/devcards/v2/ALhZxU29Ge5LhATDooMWx.png?type=wide&r=2cg" width="652" alt="Lsama's Dev Card"/></a>
 
 <!---
