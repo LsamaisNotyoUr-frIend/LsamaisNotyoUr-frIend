@@ -17,8 +17,8 @@
 ## 📫 How to reach me
 - **Instagram**: [the_king_lsama](https://www.instagram.com/the_king_lsama)
 - **Discord**: nisan2466
-- **Likedin**: https://www.linkedin.com/in/george-nwachukwu-1b8941299/
-- **x** : https://x.com/Lsama098
+- **Likedin**: [george-nwachukwu](https://www.linkedin.com/in/george-nwachukwu-1b8941299/)
+- **x** : [Lsama098](https://x.com/Lsama098)
 
 ## 🏆 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LsamaisNotyoUr-frIend&show_icons=true&theme=radical)
