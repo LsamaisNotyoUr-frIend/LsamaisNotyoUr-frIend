@@ -27,7 +27,7 @@
 [![Currently Playing](https://img.shields.io/badge/Playing-Brawlhalla-0078d7?style=flat-square&logo=brawlhalla&logoColor=white)](https://store.steampowered.com/app/291550/Brawlhalla/)
 
 ## 🎧 Currently In Love With
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_userid&cover_image=true&theme=novatorem)](https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8?highlight=spotify:track:1Tob6YkutQ6jjWKzLO4gkr)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_userid&cover_image=true&theme=novatorem)](https://open.spotify.com/album/7JvM9qMW23SCkpfz4ZrLsS)
 
 ---
 ### _**“Games are the way I express myself; I code to create worlds."**_ 
